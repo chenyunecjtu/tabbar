@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_call" android:icon="@drawable/home_loan_selected" android:title="Call"/>
+        <item android:id="@+id/nav_friends" android:icon="@drawable/home_personal_selected" android:title="friends"/>
+        <item android:id="@+id/nav_location" android:icon="@drawable/home_recommend_selected" android:title="location"/>
+        <item android:id="@+id/nav_mail" android:icon="@drawable/home_strategy_selected" android:title="mail"/>
+        <item android:id="@+id/nav_tasks" android:icon="@drawable/strategy_guide" android:title="tasks"/>
+
+    </group>
+
+</menu>
